@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1636368905 source:c:\users\tanmayee m nerlige\desktop\ds\pixel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"header.h"
+
+1636369916 c:\users\tanmayee m nerlige\desktop\ds\pixel\header.h
+
+1636368798 source:c:\users\tanmayee m nerlige\desktop\ds\pixel\operation.c
+	<stdlib.h>
+	"header.h"
+
